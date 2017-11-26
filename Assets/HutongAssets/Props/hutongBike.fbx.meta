@@ -1,0 +1,118 @@
+fileFormatVersion: 2
+guid: df5eb7e509bc68b4895441eb26d27a86
+timeCreated: 1468394894
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bick_frame_low
+    100002: bike__seat_low
+    100004: bike_chain_low
+    100006: bike_gear_low
+    100008: bike_padle_low
+    100010: bike_parts_a_low
+    100012: bike_stand_low
+    100014: bike_wheelstick_low1
+    100016: bike_wheelstick_low2
+    100018: //RootNode
+    400000: bick_frame_low
+    400002: bike__seat_low
+    400004: bike_chain_low
+    400006: bike_gear_low
+    400008: bike_padle_low
+    400010: bike_parts_a_low
+    400012: bike_stand_low
+    400014: bike_wheelstick_low1
+    400016: bike_wheelstick_low2
+    400018: //RootNode
+    2300000: bick_frame_low
+    2300002: bike__seat_low
+    2300004: bike_chain_low
+    2300006: bike_gear_low
+    2300008: bike_padle_low
+    2300010: bike_parts_a_low
+    2300012: bike_stand_low
+    2300014: bike_wheelstick_low1
+    2300016: bike_wheelstick_low2
+    3300000: bick_frame_low
+    3300002: bike__seat_low
+    3300004: bike_chain_low
+    3300006: bike_gear_low
+    3300008: bike_padle_low
+    3300010: bike_parts_a_low
+    3300012: bike_stand_low
+    3300014: bike_wheelstick_low1
+    3300016: bike_wheelstick_low2
+    4300000: bick_frame_low
+    4300002: bike_parts_a_low
+    4300004: bike_stand_low
+    4300006: bike_padle_low
+    4300008: bike__seat_low
+    4300010: bike_chain_low
+    4300012: bike_gear_low
+    4300014: bike_wheelstick_low1
+    4300016: bike_wheelstick_low2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

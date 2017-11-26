@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 04a15eb7fb87e5a4d81662ad4f425f5d
+timeCreated: 1511220311
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: hutong_num_fengsheng2
+    100002: hutong_num_fengsheng5
+    100004: hutong_num_fengsheng6
+    100006: hutong_num_fengsheng8
+    100008: hutong_num_guaizi8
+    100010: hutong_num_maoer5
+    100012: hutong_num_qizi2
+    100014: hutong_num_qizi5
+    100016: hutong_num_qizi6
+    100018: hutong_sign_bike_repair
+    100020: hutong_sign_bike_repair1
+    100022: hutong_sign_breakfast
+    100024: hutong_sign_fengsheng
+    100026: hutong_sign_guaizi
+    100028: hutong_sign_maoer
+    100030: hutong_sign_museum
+    100032: hutong_sign_qizi
+    100034: //RootNode
+    400000: hutong_num_fengsheng2
+    400002: hutong_num_fengsheng5
+    400004: hutong_num_fengsheng6
+    400006: hutong_num_fengsheng8
+    400008: hutong_num_guaizi8
+    400010: hutong_num_maoer5
+    400012: hutong_num_qizi2
+    400014: hutong_num_qizi5
+    400016: hutong_num_qizi6
+    400018: hutong_sign_bike_repair
+    400020: hutong_sign_bike_repair1
+    400022: hutong_sign_breakfast
+    400024: hutong_sign_fengsheng
+    400026: hutong_sign_guaizi
+    400028: hutong_sign_maoer
+    400030: hutong_sign_museum
+    400032: hutong_sign_qizi
+    400034: //RootNode
+    2300000: hutong_num_fengsheng2
+    2300002: hutong_num_fengsheng5
+    2300004: hutong_num_fengsheng6
+    2300006: hutong_num_fengsheng8
+    2300008: hutong_num_guaizi8
+    2300010: hutong_num_maoer5
+    2300012: hutong_num_qizi2
+    2300014: hutong_num_qizi5
+    2300016: hutong_num_qizi6
+    2300018: hutong_sign_bike_repair
+    2300020: hutong_sign_bike_repair1
+    2300022: hutong_sign_breakfast
+    2300024: hutong_sign_fengsheng
+    2300026: hutong_sign_guaizi
+    2300028: hutong_sign_maoer
+    2300030: hutong_sign_museum
+    2300032: hutong_sign_qizi
+    3300000: hutong_num_fengsheng2
+    3300002: hutong_num_fengsheng5
+    3300004: hutong_num_fengsheng6
+    3300006: hutong_num_fengsheng8
+    3300008: hutong_num_guaizi8
+    3300010: hutong_num_maoer5
+    3300012: hutong_num_qizi2
+    3300014: hutong_num_qizi5
+    3300016: hutong_num_qizi6
+    3300018: hutong_sign_bike_repair
+    3300020: hutong_sign_bike_repair1
+    3300022: hutong_sign_breakfast
+    3300024: hutong_sign_fengsheng
+    3300026: hutong_sign_guaizi
+    3300028: hutong_sign_maoer
+    3300030: hutong_sign_museum
+    3300032: hutong_sign_qizi
+    4300000: hutong_sign_maoer
+    4300002: hutong_num_maoer5
+    4300004: hutong_sign_bike_repair
+    4300006: hutong_sign_breakfast
+    4300008: hutong_sign_museum
+    4300010: hutong_sign_qizi
+    4300012: hutong_num_qizi2
+    4300014: hutong_num_qizi6
+    4300016: hutong_num_qizi5
+    4300018: hutong_sign_fengsheng
+    4300020: hutong_num_fengsheng6
+    4300022: hutong_sign_guaizi
+    4300024: hutong_num_guaizi8
+    4300026: hutong_num_fengsheng8
+    4300028: hutong_num_fengsheng5
+    4300030: hutong_num_fengsheng2
+    4300032: hutong_sign_bike_repair1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

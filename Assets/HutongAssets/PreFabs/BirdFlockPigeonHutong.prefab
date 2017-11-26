@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1991039696391758}
+  m_IsPrefabParent: 1
+--- !u!1 &1991039696391758
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4889397405779556}
+  - component: {fileID: 114375781971216960}
+  m_Layer: 2
+  m_Name: BirdFlockPigeonHutong
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4889397405779556
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1991039696391758}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -6.29, y: 12.01, z: 14.783083}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114375781971216960
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1991039696391758}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5564f499341508a43819ce17743cd92b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _childPrefab: {fileID: 11400000, guid: eceb6ed17ab608e459bf3e9b94eee10f, type: 2}
+  _childAmount: 20
+  _slowSpawn: 0
+  _spawnSphere: 2
+  _spawnSphereHeight: 1
+  _spawnSphereDepth: 2
+  _minSpeed: 5
+  _maxSpeed: 8
+  _minScale: 0.7
+  _maxScale: 0.5
+  _soarFrequency: 0.42
+  _soarAnimation: PigeonSoar
+  _flapAnimation: PigeonFlap
+  _idleAnimation: PigeonIdle
+  _diveValue: 5
+  _diveFrequency: 0
+  _minDamping: 0.45
+  _maxDamping: 0.65
+  _waypointDistance: 4
+  _minAnimationSpeed: 2
+  _maxAnimationSpeed: 1.83
+  _randomPositionTimer: 5
+  _positionSphere: 10
+  _positionSphereHeight: 5
+  _positionSphereDepth: 10
+  _childTriggerPos: 1
+  _forceChildWaypoints: 1
+  _forcedRandomDelay: 5
+  _flatFly: 1
+  _flatSoar: 1
+  _birdAvoid: 1
+  _birdAvoidHorizontalForce: 500
+  _birdAvoidDown: 1
+  _birdAvoidUp: 1
+  _birdAvoidVerticalForce: 20
+  _birdAvoidDistanceMax: 3.02019
+  _birdAvoidDistanceMin: 1.6017418
+  _soarMaxTime: 1
+  _avoidanceMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  _roamers: []
+  _posBuffer: {x: -2.332622, y: 11.27553, z: -9.5}
+  _updateDivisor: 1
+  _newDelta: 0
+  _updateCounter: 0
+  _activeChildren: 0
+  _groupChildToNewTransform: 0
+  _groupTransform: {fileID: 0}
+  _groupName: 
+  _groupChildToFlock: 1
+  _startPosOffset: {x: 0, y: 0, z: 0}
+  _thisT: {fileID: 4889397405779556}

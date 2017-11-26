@@ -1,0 +1,1281 @@
+fileFormatVersion: 2
+guid: febfcbab0b124bb409b2b99d4d6fe24a
+timeCreated: 1471821949
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera
+    100002: crown
+    100004: Default
+    100006: left eye
+    100008: long hair
+    100010: princess__Brow_L
+    100012: princess__Brow_R
+    100014: princess__BrowTip_L
+    100016: princess__BrowTip_R
+    100018: princess__Chest
+    100020: princess__Dress1
+    100022: princess__Dress2BR
+    100024: 'princess__Dress2BR '
+    100026: princess__Dress2BR_Tip
+    100028: 'princess__Dress2BR_Tip '
+    100030: princess__Dress2FL
+    100032: princess__Dress2FL_Tip
+    100034: princess__Dress2FR
+    100036: princess__Dress2FR_Tip
+    100038: princess__DressRoot
+    100040: princess__Facial_1
+    100042: princess__Facial_2
+    100044: princess__Head
+    100046: princess__Head_Tip
+    100048: princess__Hierarchy
+    100050: princess__Jaw
+    100052: princess__JawTip
+    100054: princess__L.Arm
+    100056: princess__L.Eye_LowEyelid
+    100058: princess__L.Eye_LowEyelid_Tip
+    100060: princess__L.Eye_Socket
+    100062: princess__L.Eye_UpEyelid
+    100064: princess__L.Eye_UpEyelid_Tip
+    100066: princess__L.Foot
+    100068: princess__L.Foot_Tip
+    100070: princess__L.Foot_Toes
+    100072: princess__L.ForeArm
+    100074: princess__L.Hand
+    100076: princess__L.Hand_End
+    100078: princess__L.Index_1
+    100080: princess__L.Index_2
+    100082: princess__L.Index_3
+    100084: princess__L.Index_Tip
+    100086: princess__L.Leg
+    100088: princess__L.Middle_1
+    100090: princess__L.Middle_2
+    100092: princess__L.Middle_3
+    100094: princess__L.Middle_Tip
+    100096: princess__L.Pinky_1
+    100098: princess__L.Pinky_2
+    100100: princess__L.Pinky_3
+    100102: princess__L.Pinky_Tip
+    100104: princess__L.Ring_1
+    100106: princess__L.Ring_2
+    100108: princess__L.Ring_3
+    100110: princess__L.Ring_Tip
+    100112: princess__L.Shoulder
+    100114: princess__L.Thumb_1
+    100116: princess__L.Thumb_2
+    100118: princess__L.Thumb_3
+    100120: princess__L.Thumb_Tip
+    100122: princess__L.UpLeg
+    100124: princess__LowerLip
+    100126: princess__LowerLipTip
+    100128: princess__Mouth_Corner_L
+    100130: princess__Mouth_Corner_R
+    100132: princess__Mouth_CornerTip_L
+    100134: princess__Mouth_CornerTip_R
+    100136: princess__Neck
+    100138: princess__Neck_No_Roll
+    100140: princess__R.Arm
+    100142: princess__R.Eye_LowEyelid
+    100144: princess__R.Eye_LowEyelid_Tip
+    100146: princess__R.Eye_Socket
+    100148: princess__R.Eye_UpEyelid
+    100150: princess__R.Eye_UpEyelid_Tip
+    100152: princess__R.Foot
+    100154: princess__R.Foot_Tip
+    100156: princess__R.Foot_Toes
+    100158: princess__R.ForeArm
+    100160: princess__R.Hand
+    100162: princess__R.Hand_End
+    100164: princess__R.Index_1
+    100166: princess__R.Index_2
+    100168: princess__R.Index_3
+    100170: princess__R.Index_Tip
+    100172: princess__R.Leg
+    100174: princess__R.Middle_1
+    100176: princess__R.Middle_2
+    100178: princess__R.Middle_3
+    100180: princess__R.Middle_Tip
+    100182: princess__R.Pinky_1
+    100184: princess__R.Pinky_2
+    100186: princess__R.Pinky_3
+    100188: princess__R.Pinky_Tip
+    100190: princess__R.Ring_1
+    100192: princess__R.Ring_2
+    100194: princess__R.Ring_3
+    100196: princess__R.Ring_Tip
+    100198: princess__R.Shoulder
+    100200: princess__R.Thumb_1
+    100202: princess__R.Thumb_2
+    100204: princess__R.Thumb_3
+    100206: princess__R.Thumb_Tip
+    100208: princess__R.UpLeg
+    100210: princess__Root
+    100212: princess__Spine_1
+    100214: princess__Spine_Tip
+    100216: princess__Upper_Lip
+    100218: princess__Upper_LipTip
+    100220: //RootNode
+    100222: printesa
+    100224: right eye
+    100226: Texture Group
+    100228: TextureLocators
+    100230: wand
+    400000: Camera
+    400002: crown
+    400004: Default
+    400006: left eye
+    400008: long hair
+    400010: princess__Brow_L
+    400012: princess__Brow_R
+    400014: princess__BrowTip_L
+    400016: princess__BrowTip_R
+    400018: princess__Chest
+    400020: princess__Dress1
+    400022: princess__Dress2BR
+    400024: 'princess__Dress2BR '
+    400026: princess__Dress2BR_Tip
+    400028: 'princess__Dress2BR_Tip '
+    400030: princess__Dress2FL
+    400032: princess__Dress2FL_Tip
+    400034: princess__Dress2FR
+    400036: princess__Dress2FR_Tip
+    400038: princess__DressRoot
+    400040: princess__Facial_1
+    400042: princess__Facial_2
+    400044: princess__Head
+    400046: princess__Head_Tip
+    400048: princess__Hierarchy
+    400050: princess__Jaw
+    400052: princess__JawTip
+    400054: princess__L.Arm
+    400056: princess__L.Eye_LowEyelid
+    400058: princess__L.Eye_LowEyelid_Tip
+    400060: princess__L.Eye_Socket
+    400062: princess__L.Eye_UpEyelid
+    400064: princess__L.Eye_UpEyelid_Tip
+    400066: princess__L.Foot
+    400068: princess__L.Foot_Tip
+    400070: princess__L.Foot_Toes
+    400072: princess__L.ForeArm
+    400074: princess__L.Hand
+    400076: princess__L.Hand_End
+    400078: princess__L.Index_1
+    400080: princess__L.Index_2
+    400082: princess__L.Index_3
+    400084: princess__L.Index_Tip
+    400086: princess__L.Leg
+    400088: princess__L.Middle_1
+    400090: princess__L.Middle_2
+    400092: princess__L.Middle_3
+    400094: princess__L.Middle_Tip
+    400096: princess__L.Pinky_1
+    400098: princess__L.Pinky_2
+    400100: princess__L.Pinky_3
+    400102: princess__L.Pinky_Tip
+    400104: princess__L.Ring_1
+    400106: princess__L.Ring_2
+    400108: princess__L.Ring_3
+    400110: princess__L.Ring_Tip
+    400112: princess__L.Shoulder
+    400114: princess__L.Thumb_1
+    400116: princess__L.Thumb_2
+    400118: princess__L.Thumb_3
+    400120: princess__L.Thumb_Tip
+    400122: princess__L.UpLeg
+    400124: princess__LowerLip
+    400126: princess__LowerLipTip
+    400128: princess__Mouth_Corner_L
+    400130: princess__Mouth_Corner_R
+    400132: princess__Mouth_CornerTip_L
+    400134: princess__Mouth_CornerTip_R
+    400136: princess__Neck
+    400138: princess__Neck_No_Roll
+    400140: princess__R.Arm
+    400142: princess__R.Eye_LowEyelid
+    400144: princess__R.Eye_LowEyelid_Tip
+    400146: princess__R.Eye_Socket
+    400148: princess__R.Eye_UpEyelid
+    400150: princess__R.Eye_UpEyelid_Tip
+    400152: princess__R.Foot
+    400154: princess__R.Foot_Tip
+    400156: princess__R.Foot_Toes
+    400158: princess__R.ForeArm
+    400160: princess__R.Hand
+    400162: princess__R.Hand_End
+    400164: princess__R.Index_1
+    400166: princess__R.Index_2
+    400168: princess__R.Index_3
+    400170: princess__R.Index_Tip
+    400172: princess__R.Leg
+    400174: princess__R.Middle_1
+    400176: princess__R.Middle_2
+    400178: princess__R.Middle_3
+    400180: princess__R.Middle_Tip
+    400182: princess__R.Pinky_1
+    400184: princess__R.Pinky_2
+    400186: princess__R.Pinky_3
+    400188: princess__R.Pinky_Tip
+    400190: princess__R.Ring_1
+    400192: princess__R.Ring_2
+    400194: princess__R.Ring_3
+    400196: princess__R.Ring_Tip
+    400198: princess__R.Shoulder
+    400200: princess__R.Thumb_1
+    400202: princess__R.Thumb_2
+    400204: princess__R.Thumb_3
+    400206: princess__R.Thumb_Tip
+    400208: princess__R.UpLeg
+    400210: princess__Root
+    400212: princess__Spine_1
+    400214: princess__Spine_Tip
+    400216: princess__Upper_Lip
+    400218: princess__Upper_LipTip
+    400220: //RootNode
+    400222: printesa
+    400224: right eye
+    400226: Texture Group
+    400228: TextureLocators
+    400230: wand
+    7400000: idle1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'idle1' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'princess__Neck' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'princess__L.ForeArm' has
+      translation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: princess__Root
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__L.UpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__R.UpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__L.Leg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__R.Leg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__L.Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__R.Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__Spine_1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__Chest
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__Neck_No_Roll
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__L.Shoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__R.Shoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__L.Arm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__R.Arm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__L.ForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__R.ForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__L.Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__R.Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__L.Foot_Toes
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__R.Foot_Toes
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__L.Eye_Socket
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__R.Eye_Socket
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__Facial_2
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__L.Thumb_1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__L.Thumb_2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__L.Thumb_3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__L.Index_1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__L.Index_2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__L.Index_3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__L.Middle_1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__L.Middle_2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__L.Middle_3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__L.Pinky_1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__L.Pinky_2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__L.Pinky_3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__R.Thumb_1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__R.Thumb_2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__R.Thumb_3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__R.Index_1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__R.Index_2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__R.Index_3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__R.Middle_1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__R.Middle_2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__R.Middle_3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Default
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__R.Pinky_1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__R.Pinky_2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: princess__R.Pinky_3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: princess_idle1(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Camera
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -2.1648903e-17, y: -0.7071068, z: -2.1648903e-17, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__Hierarchy
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.00000019973709, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__Root
+      position: {x: 0.0002873571, y: 0.18732037, z: 0.011975847}
+      rotation: {x: 0.00045590237, y: 0.018763954, z: 0.000118995034, w: 0.9998238}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__DressRoot
+      position: {x: 0.00006108641, y: 0.034999996, z: -0.01199999}
+      rotation: {x: -0.043355506, y: 0.00003783485, z: -0.000871844, w: 0.9990593}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__Dress1
+      position: {x: -7.45058e-11, y: 0.000000022500751, z: 0.011543394}
+      rotation: {x: 0.25514284, y: 0.37696522, z: -0.2436771, w: 0.8563999}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__Dress2BR
+      position: {x: 0.11423552, y: -0.021084812, z: 0.040576126}
+      rotation: {x: -0.06676149, y: 0.5318166, z: -0.6778308, w: 0.503249}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__Dress2BR_Tip
+      position: {x: 0.0004902172, y: 0.0000009632109, z: 0.114245355}
+      rotation: {x: -0.011278992, y: -0.63500565, z: 0.5884376, w: 0.50038165}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: 'princess__Dress2BR '
+      position: {x: 0.022888832, y: -0.11437355, z: -0.03918593}
+      rotation: {x: -0.06767916, y: -0.62071586, z: 0.6775369, w: -0.38868383}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: 'princess__Dress2BR_Tip '
+      position: {x: -0.0004902362, y: -0.0000010299682, z: 0.114245325}
+      rotation: {x: 0.12659688, y: 0.7212927, z: -0.5744932, w: -0.36560607}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__Dress2FL
+      position: {x: -0.0806, y: -0.082313575, z: 0.059100427}
+      rotation: {x: 0.42538783, y: 0.09957793, z: -0.2817222, w: 0.8542611}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__Dress2FL_Tip
+      position: {x: -0.000017518996, y: -0.0004899072, z: 0.11202012}
+      rotation: {x: -0.47744656, y: -0.34983808, z: 0.6001123, w: 0.53807366}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__Dress2FR
+      position: {x: 0.000000019073488, y: -0.000000009536744, z: 0.12947872}
+      rotation: {x: 0.25130686, y: 0.15887597, z: -0.2533625, w: 0.92054915}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__Dress2FR_Tip
+      position: {x: 0.000017843242, y: 0.00048996916, z: 0.11202013}
+      rotation: {x: -0.36680013, y: -0.46454224, z: 0.5161199, w: 0.61909485}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__L.UpLeg
+      position: {x: -0.026413953, y: 0.00000003509223, z: 0.0000000035762784}
+      rotation: {x: 0.7260466, y: -0.018583898, z: -0.018003581, w: 0.6871586}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__L.Leg
+      position: {x: 0.000000007152559, y: -0.000000018477444, z: 0.08993436}
+      rotation: {x: 0.06765051, y: -0.000049176317, z: 0.020356607, w: 0.9975014}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__L.Foot
+      position: {x: 0.000000016689299, y: -0.000000526905, z: 0.08127815}
+      rotation: {x: -0.7710947, y: -0.05167902, z: 0.1044588, w: 0.62596387}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__L.Foot_Toes
+      position: {x: 0.000000009536742, y: -0.015806032, z: 0.02279}
+      rotation: {x: 0.05614461, y: -0, z: -0, w: 0.9984227}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__L.Foot_Tip
+      position: {x: 0.000000004768371, y: 0.0000000041723247, z: 0.017192094}
+      rotation: {x: 0.013208275, y: 0.0051316787, z: 0.0015357845, w: 0.99989843}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__R.UpLeg
+      position: {x: 0.026413947, y: 0.000000027573549, z: 0}
+      rotation: {x: 0.71394694, y: 0.0038221267, z: 0.003404936, w: 0.7001811}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__R.Leg
+      position: {x: -0.000000004768372, y: 0, z: 0.08993445}
+      rotation: {x: 0.089032486, y: 0.00032440518, z: -0.012942321, w: 0.9959446}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__R.Foot
+      position: {x: 0.0000000023841855, y: -0.00000031411645, z: 0.08127818}
+      rotation: {x: -0.7790318, y: 0.039830573, z: -0.058270592, w: 0.62299883}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__R.Foot_Toes
+      position: {x: -0.000000009536742, y: -0.015806032, z: 0.022790005}
+      rotation: {x: 0.056144595, y: -0, z: -0, w: 0.9984227}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__R.Foot_Tip
+      position: {x: -0, y: 0.0000000020861624, z: 0.0171921}
+      rotation: {x: 0.013208274, y: 0.0051316787, z: 0.0015357842, w: 0.99989843}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__Spine_1
+      position: {x: 9.3132245e-11, y: 0.0323766, z: 0.0017079781}
+      rotation: {x: -0.8408295, y: 0.00013206393, z: -0.00004047849, w: 0.54130006}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__Chest
+      position: {x: 1.6763804e-10, y: 0.0000039261577, z: 0.044061143}
+      rotation: {x: 0.23375157, y: 0.0000000015577304, z: -6.409346e-11, w: 0.97229636}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__L.Shoulder
+      position: {x: -0.0094079925, y: -0.0054316847, z: 0.0428286}
+      rotation: {x: -0.47775728, y: 0.6005366, z: 0.5155934, w: -0.3811394}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__L.Arm
+      position: {x: 0.000000004768372, y: -0.00000003933907, z: 0.034238327}
+      rotation: {x: 0.045174904, y: 0.14204517, z: 0.6893375, w: 0.7089403}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__L.ForeArm
+      position: {x: -0, y: -0.0000036346908, z: 0.079770684}
+      rotation: {x: 0.02424812, y: 0.021472601, z: -0.083210446, w: 0.99600554}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__L.Hand
+      position: {x: 0.00000020980832, y: 0.0000003242492, z: 0.052972827}
+      rotation: {x: 0.037853003, y: -0.047940377, z: -0.6989427, w: 0.7125644}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__L.Hand_End
+      position: {x: 0.0000000023841853, y: 0, z: 0.039332535}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__L.Index_1
+      position: {x: 0.011980779, y: 0.001998491, z: 0.042978175}
+      rotation: {x: 0.050360736, y: 0.07258565, z: 0.013290425, w: 0.99600124}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__L.Index_2
+      position: {x: 0.0000000023841855, y: 0.000000019073484, z: 0.022395708}
+      rotation: {x: 0.038744856, y: 0.0024653617, z: 0.025337113, w: 0.9989249}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__L.Index_3
+      position: {x: 0.000000009536742, y: 0.000000028610227, z: 0.010009647}
+      rotation: {x: 0.031461854, y: 0.0021778573, z: 0.061008535, w: 0.9976389}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__L.Index_Tip
+      position: {x: -0.000000009536742, y: -0.000000019073484, z: 0.0069304556}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__L.Middle_1
+      position: {x: 0.0043452657, y: 0.0020095631, z: 0.044117227}
+      rotation: {x: 0.054514445, y: 0.042515915, z: 0.010192055, w: 0.99755543}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__L.Middle_2
+      position: {x: -0.0000000011920928, y: -0.000000028610227, z: 0.023260219}
+      rotation: {x: 0.038810316, y: 0.0006612905, z: 0.0073298486, w: 0.99921954}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__L.Middle_3
+      position: {x: 0.000000009536742, y: 0.00000003814697, z: 0.009760469}
+      rotation: {x: 0.030552402, y: 0.0011274788, z: 0.017320799, w: 0.99938244}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__L.Middle_Tip
+      position: {x: -0.000000004768371, y: 0.00000003814697, z: 0.009798741}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__L.Pinky_1
+      position: {x: -0.012692177, y: -0.0019920727, z: 0.041776612}
+      rotation: {x: 0.048001837, y: 0.018517304, z: 0.10473547, w: 0.99316835}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__L.Pinky_2
+      position: {x: 0.000000005066394, y: 0.000000057220454, z: 0.02106858}
+      rotation: {x: 0.033070702, y: -0.0027130158, z: -0.016666302, w: 0.99931043}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__L.Pinky_3
+      position: {x: 5.960464e-10, y: -0.000000057220454, z: 0.00844387}
+      rotation: {x: 0.024142724, y: -0.004541623, z: -0.021433203, w: 0.99946845}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__L.Pinky_Tip
+      position: {x: 0.000000004768372, y: 0.00000004291535, z: 0.008492891}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__L.Ring_1
+      position: {x: -0.004687387, y: 0.0024991508, z: 0.0437321}
+      rotation: {x: 0.20199011, y: -0.041113503, z: 0.08134502, w: 0.9751373}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__L.Ring_2
+      position: {x: -0.0000000011920926, y: 0.000000038146965, z: 0.022022098}
+      rotation: {x: 0.20846216, y: -0.020362336, z: -0.0063512214, w: 0.9777978}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__L.Ring_3
+      position: {x: 0.0000000023841853, y: -0.000000038146965, z: 0.009756663}
+      rotation: {x: 0.3420181, y: -0.05157559, z: -0.008031028, w: 0.93824255}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__L.Ring_Tip
+      position: {x: 0.0000000071525568, y: 0.00000005245208, z: 0.0097651}
+      rotation: {x: 0.009275562, y: -0.023809548, z: 0.0023067335, w: 0.9996708}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__L.Thumb_1
+      position: {x: 0.01419683, y: -0.008734701, z: 0.020065011}
+      rotation: {x: -0.31536865, y: 0.21585219, z: -0.6997966, w: 0.6035191}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__L.Thumb_2
+      position: {x: 0.00000008583068, y: 0.0000000143051135, z: 0.010435389}
+      rotation: {x: 0.03524429, y: 0.013169808, z: 0.012223141, w: 0.9992173}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__L.Thumb_3
+      position: {x: -0.000000019073482, y: 0.000000033378594, z: 0.010408387}
+      rotation: {x: 0.036234412, y: -0.00216621, z: -0.005503256, w: 0.9993259}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__L.Thumb_Tip
+      position: {x: -0.000000009536742, y: -0.000000028610227, z: 0.010936993}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__Neck_No_Roll
+      position: {x: -1.490116e-10, y: 0.009740833, z: 0.0561649}
+      rotation: {x: 0.12418562, y: -0.023280637, z: 0.0040079434, w: 0.99197775}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__Neck
+      position: {x: -0.0000000023469326, y: -0.000000004768371, z: -0.000000051856034}
+      rotation: {x: -0.0004871433, y: -0.00011469218, z: -0.001054053, w: 0.99999934}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__Head
+      position: {x: 0.0000000017881392, y: -0.000000005215406, z: 0.03319157}
+      rotation: {x: 0.6251292, y: 0.016060017, z: -0.021684054, w: 0.7800547}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: crown
+      position: {x: -0.0000707914, y: 0.21488166, z: -0.012737076}
+      rotation: {x: -0.037723653, y: 0.00013765837, z: 0.0036465214, w: 0.9992815}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: long hair
+      position: {x: -0.00019515229, y: 0.23277742, z: -0.0020559062}
+      rotation: {x: -0.037723653, y: 0.00013765837, z: 0.0036465214, w: 0.9992815}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__Facial_1
+      position: {x: 0.0012173377, y: 0.039077096, z: 0.0030625307}
+      rotation: {x: -0.5830776, y: -0.0018981674, z: 0.003116571, w: 0.8124083}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__Facial_2
+      position: {x: 2.7939676e-10, y: 0.000000009536742, z: 0.017923456}
+      rotation: {x: 0.927098, y: -0, z: 0, w: 0.37481907}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__Brow_L
+      position: {x: -0.036999993, y: 0.09958078, z: -0.0458058}
+      rotation: {x: 0.71458656, y: 0.6923631, z: 0.09071165, w: -0.04208106}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__BrowTip_L
+      position: {x: 0.00049192423, y: -0.0000058603277, z: 0.0055150166}
+      rotation: {x: 0.7145865, y: 0.69236314, z: 0.09071165, w: 0.042081214}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__Brow_R
+      position: {x: 0.03699999, y: 0.09958081, z: -0.04580583}
+      rotation: {x: 0.6964187, y: 0.7106347, z: 0.04156405, w: -0.09094972}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__BrowTip_R
+      position: {x: 0.0004919433, y: 0.00000025749205, z: 0.005515167}
+      rotation: {x: 0.69641864, y: 0.7106347, z: 0.0415643, w: 0.09094966}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__Jaw
+      position: {x: -1.117587e-10, y: -0.000000020265576, z: 0.013928309}
+      rotation: {x: -0.26199245, y: 0, z: -0, w: 0.96506995}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__JawTip
+      position: {x: 0.000000001117587, y: 0.00042016024, z: 0.07965905}
+      rotation: {x: -0.318015, y: 0, z: -0, w: 0.9480857}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__LowerLip
+      position: {x: 7.264315e-10, y: 0.028309438, z: 0.076753914}
+      rotation: {x: -0.39512983, y: 0, z: -0, w: 0.9186253}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__LowerLipTip
+      position: {x: -0.0000000010244547, y: -0.0000000023841855, z: 0.0024331282}
+      rotation: {x: 0.4155387, y: -0, z: -0, w: 0.9095755}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__Mouth_Corner_L
+      position: {x: -0.024499988, y: 0.055857114, z: 0.052554477}
+      rotation: {x: -0.8595136, y: 0.00023634396, z: -0.016254265, w: 0.5108543}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__Mouth_CornerTip_L
+      position: {x: -0.0000000071525568, y: 0, z: 0.003548164}
+      rotation: {x: 0.88626194, y: 0.0006563492, z: 0.016242685, w: 0.46289906}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__Mouth_Corner_R
+      position: {x: 0.024499992, y: 0.055857103, z: 0.05255449}
+      rotation: {x: -0.8593969, y: -0.014161273, z: 0.007975798, w: 0.51105076}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__Mouth_CornerTip_R
+      position: {x: -0, y: -0.0000001478195, z: 0.0035482354}
+      rotation: {x: 0.88615626, y: 0.013702085, z: -0.008741147, w: 0.46310145}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__Upper_Lip
+      position: {x: -2.607703e-10, y: 0.068708576, z: 0.051176045}
+      rotation: {x: -0.7807171, y: 0, z: -0, w: 0.6248847}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__Upper_LipTip
+      position: {x: -7.450579e-11, y: 0.00016641137, z: 0.0037164968}
+      rotation: {x: 0.8138443, y: -0.00000015312594, z: 0.00000015316213, w: 0.58108306}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__Head_Tip
+      position: {x: 0.0000000011362137, y: 0.20611721, z: -0.000000032186513}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__L.Eye_LowEyelid
+      position: {x: -0.033940654, y: 0.08487459, z: 0.056190874}
+      rotation: {x: 0.16393073, y: -0.08378194, z: 0.024286285, w: 0.9826075}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__L.Eye_LowEyelid_Tip
+      position: {x: 0.000000002384186, y: -0.000000002384186, z: 0.017677886}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__L.Eye_Socket
+      position: {x: -0.033940654, y: 0.08487459, z: 0.056190874}
+      rotation: {x: -0.037723903, y: 0, z: -0, w: 0.9992882}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: left eye
+      position: {x: 0.0000002932548, y: 0.00000003419816, z: 0.00000046730034}
+      rotation: {x: 0.0046647186, y: -0.08713845, z: 0.0032549005, w: 0.99618}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__L.Eye_UpEyelid
+      position: {x: -0.033940654, y: 0.08487459, z: 0.056190874}
+      rotation: {x: -0.16400397, y: -0.08712809, z: -0.0042335945, w: 0.98259526}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__L.Eye_UpEyelid_Tip
+      position: {x: 0.0000000071525568, y: -0.000000066757195, z: 0.018217372}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__R.Eye_LowEyelid
+      position: {x: 0.035763483, y: 0.08538184, z: 0.05615253}
+      rotation: {x: 0.15722132, y: 0.08561829, z: -0.016695695, w: 0.9837033}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__R.Eye_LowEyelid_Tip
+      position: {x: -0.000000004768371, y: -0.00000002145767, z: 0.017677959}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__R.Eye_Socket
+      position: {x: 0.035763483, y: 0.08538184, z: 0.05615253}
+      rotation: {x: -0.037723918, y: 0, z: -0, w: 0.9992882}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: right eye
+      position: {x: -0.00000030040738, y: 0.00000023199243, z: 0.000000462532}
+      rotation: {x: 0.00402865, y: 0.08717019, z: 0.004015487, w: 0.9961772}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__R.Eye_UpEyelid
+      position: {x: 0.035763483, y: 0.08538184, z: 0.05615253}
+      rotation: {x: -0.16965112, y: 0.086413175, z: 0.011916336, w: 0.98163605}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__R.Eye_UpEyelid_Tip
+      position: {x: -0.0000000143051135, y: -0.000000019073484, z: 0.01821739}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__R.Shoulder
+      position: {x: 0.009407996, y: -0.0054316847, z: 0.042828597}
+      rotation: {x: 0.47778738, y: 0.60045236, z: 0.5156467, w: 0.38116226}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__R.Arm
+      position: {x: -0.00000001192093, y: -0.00000010490418, z: 0.03423836}
+      rotation: {x: 0.043382566, y: -0.14126639, z: -0.6842728, w: 0.71409553}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__R.ForeArm
+      position: {x: 0.00000004768372, y: -0.0000035357477, z: 0.07977074}
+      rotation: {x: 0.02430934, y: -0.022175405, z: 0.057832833, w: 0.9977839}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__R.Hand
+      position: {x: -0.00000019073488, y: 0.00000035285953, z: 0.052972853}
+      rotation: {x: 0.035840023, y: 0.04556277, z: 0.69553566, w: 0.7161492}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__R.Hand_End
+      position: {x: -0, y: 0, z: 0.039332483}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__R.Index_1
+      position: {x: -0.01198078, y: 0.0019985107, z: 0.04297815}
+      rotation: {x: 0.050347663, y: -0.07263295, z: -0.013299175, w: 0.9959983}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__R.Index_2
+      position: {x: -0.000000035762785, y: 0.000000066757195, z: 0.022395698}
+      rotation: {x: 0.038737684, y: -0.0025251342, z: -0.025321085, w: 0.9989254}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__R.Index_3
+      position: {x: -0.0000000023841855, y: 0, z: 0.0100095915}
+      rotation: {x: 0.031455178, y: -0.0022195147, z: -0.060937285, w: 0.9976434}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__R.Index_Tip
+      position: {x: -0, y: -0.000000019073484, z: 0.00693046}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__R.Middle_1
+      position: {x: -0.004345273, y: 0.0020095445, z: 0.04411717}
+      rotation: {x: 0.0545212, y: -0.042559434, z: -0.010200813, w: 0.9975531}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__R.Middle_2
+      position: {x: -0.000000022649767, y: 0.000000038146975, z: 0.0232602}
+      rotation: {x: 0.038808264, y: -0.00071011024, z: -0.0073017483, w: 0.9992198}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__R.Middle_3
+      position: {x: -0.00000001192093, y: 0.000000019073488, z: 0.009760466}
+      rotation: {x: 0.030552935, y: -0.0011718933, z: -0.017322531, w: 0.99938244}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__R.Middle_Tip
+      position: {x: 0.0000000035762793, y: 0.0000000858307, z: 0.009976612}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__R.Pinky_1
+      position: {x: 0.012692179, y: -0.0019920925, z: 0.041776545}
+      rotation: {x: 0.048026327, y: -0.018560635, z: -0.10471703, w: 0.99316835}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__R.Pinky_2
+      position: {x: -0.0000000205636, y: 0.000000019073484, z: 0.021068554}
+      rotation: {x: 0.03306869, y: 0.0026579138, z: 0.016671835, w: 0.99931055}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__R.Pinky_3
+      position: {x: -0.0000000029802325, y: -0.0000000858307, z: 0.008443847}
+      rotation: {x: 0.024153078, y: 0.0045098737, z: 0.021456974, w: 0.99946785}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__R.Pinky_Tip
+      position: {x: -0.000000009536741, y: 0, z: 0.008492878}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__R.Ring_1
+      position: {x: 0.004687379, y: 0.0024991324, z: 0.04373205}
+      rotation: {x: 0.20199937, y: 0.040994942, z: -0.081377394, w: 0.97513765}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__R.Ring_2
+      position: {x: -0.0000000205636, y: 0.000000066757195, z: 0.022022102}
+      rotation: {x: 0.20849681, y: 0.020110901, z: 0.006398721, w: 0.97779536}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__R.Ring_3
+      position: {x: 0.0000000071525568, y: -0.000000019073484, z: 0.009756645}
+      rotation: {x: 0.34208277, y: 0.051114153, z: 0.008114914, w: 0.9382435}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__R.Ring_Tip
+      position: {x: -0.000000018477438, y: 0.00000004768371, z: 0.009765118}
+      rotation: {x: 0.009275553, y: -0.023809567, z: 0.0023067112, w: 0.9996708}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__R.Thumb_1
+      position: {x: -0.014196828, y: -0.008734704, z: 0.020064957}
+      rotation: {x: -0.3056119, y: -0.23594794, z: 0.6954145, w: 0.60607636}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__R.Thumb_2
+      position: {x: -0, y: 0.00000004291534, z: 0.010435385}
+      rotation: {x: 0.03529643, y: -0.013031543, z: -0.013102167, w: 0.999206}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__R.Thumb_3
+      position: {x: -0.000000009536742, y: 0.000000019073484, z: 0.010408357}
+      rotation: {x: 0.0349858, y: -0.00036591294, z: 0.003997565, w: 0.99937975}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: princess__R.Thumb_Tip
+      position: {x: 0.000000019073484, y: -0.000000004768371, z: 0.0109369885}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: wand
+      position: {x: 0.030017003, y: -0.012166834, z: 0.0079750735}
+      rotation: {x: -0.17358586, y: -0.3940047, z: 0.40481874, w: 0.8066909}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Default
+      position: {x: -0.00000011920929, y: 0.0000009155273, z: 0.048635293}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: princess__Spine_Tip
+      position: {x: -1.117587e-10, y: -0.000000010579823, z: 0.043545965}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: printesa
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Texture Group
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.00000019973709, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TextureLocators
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.00000019973709, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

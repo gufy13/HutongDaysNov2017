@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 1e73204aebd260047b5c221c15d9a036
+timeCreated: 1469510063
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: geo_talking_bird
+    100004: joint_talkingBird
+    100006: joint_tb_ankle_left
+    100008: joint_tb_ankle_right
+    100010: joint_tb_beak
+    100012: joint_tb_chest
+    100014: joint_tb_finger_left
+    100016: joint_tb_finger_right
+    100018: joint_tb_finger_tip_left
+    100020: joint_tb_finger_tip_right
+    100022: joint_tb_jaw
+    100024: joint_tb_leg_left
+    100026: joint_tb_leg_right
+    100028: joint_tb_neck
+    100030: joint_tb_shoulder_left
+    100032: joint_tb_shoulder_right
+    100034: joint_tb_tail
+    100036: joint_tb_tail_end
+    100038: joint_tb_tail_mid
+    100040: joint_tb_thigh_left
+    100042: joint_tb_thigh_right
+    100044: joint_tb_thumb_left
+    100046: joint_tb_thumb_right
+    100048: joint_tb_thumb_tip_left
+    100050: joint_tb_thumb_tip_right
+    100052: joint_tb_wing_left
+    100054: joint_tb_wing_right
+    100056: joint_tb_wing_tip_left
+    100058: joint_tb_wing_tip_right
+    400000: //RootNode
+    400002: geo_talking_bird
+    400004: joint_talkingBird
+    400006: joint_tb_ankle_left
+    400008: joint_tb_ankle_right
+    400010: joint_tb_beak
+    400012: joint_tb_chest
+    400014: joint_tb_finger_left
+    400016: joint_tb_finger_right
+    400018: joint_tb_finger_tip_left
+    400020: joint_tb_finger_tip_right
+    400022: joint_tb_jaw
+    400024: joint_tb_leg_left
+    400026: joint_tb_leg_right
+    400028: joint_tb_neck
+    400030: joint_tb_shoulder_left
+    400032: joint_tb_shoulder_right
+    400034: joint_tb_tail
+    400036: joint_tb_tail_end
+    400038: joint_tb_tail_mid
+    400040: joint_tb_thigh_left
+    400042: joint_tb_thigh_right
+    400044: joint_tb_thumb_left
+    400046: joint_tb_thumb_right
+    400048: joint_tb_thumb_tip_left
+    400050: joint_tb_thumb_tip_right
+    400052: joint_tb_wing_left
+    400054: joint_tb_wing_right
+    400056: joint_tb_wing_tip_left
+    400058: joint_tb_wing_tip_right
+    4300000: geo_talking_bird
+    7400000: birdFlapNu
+    9500000: //RootNode
+    13700000: geo_talking_bird
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: birdFlapNu
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: geo_talking_bird
+        weight: 1
+      - path: joint_talkingBird
+        weight: 1
+      - path: joint_talkingBird/joint_tb_chest
+        weight: 1
+      - path: joint_talkingBird/joint_tb_chest/joint_tb_neck
+        weight: 1
+      - path: joint_talkingBird/joint_tb_chest/joint_tb_neck/joint_tb_jaw
+        weight: 1
+      - path: joint_talkingBird/joint_tb_chest/joint_tb_neck/joint_tb_jaw/joint_tb_beak
+        weight: 1
+      - path: joint_talkingBird/joint_tb_chest/joint_tb_shoulder_left
+        weight: 1
+      - path: joint_talkingBird/joint_tb_chest/joint_tb_shoulder_left/joint_tb_wing_left
+        weight: 1
+      - path: joint_talkingBird/joint_tb_chest/joint_tb_shoulder_left/joint_tb_wing_left/joint_tb_wing_tip_left
+        weight: 1
+      - path: joint_talkingBird/joint_tb_chest/joint_tb_shoulder_right
+        weight: 1
+      - path: joint_talkingBird/joint_tb_chest/joint_tb_shoulder_right/joint_tb_wing_right
+        weight: 1
+      - path: joint_talkingBird/joint_tb_chest/joint_tb_shoulder_right/joint_tb_wing_right/joint_tb_wing_tip_right
+        weight: 1
+      - path: joint_talkingBird/joint_tb_tail
+        weight: 1
+      - path: joint_talkingBird/joint_tb_tail/joint_tb_tail_mid
+        weight: 1
+      - path: joint_talkingBird/joint_tb_tail/joint_tb_tail_mid/joint_tb_tail_end
+        weight: 1
+      - path: joint_talkingBird/joint_tb_thigh_left
+        weight: 1
+      - path: joint_talkingBird/joint_tb_thigh_left/joint_tb_leg_left
+        weight: 1
+      - path: joint_talkingBird/joint_tb_thigh_left/joint_tb_leg_left/joint_tb_ankle_left
+        weight: 1
+      - path: joint_talkingBird/joint_tb_thigh_left/joint_tb_leg_left/joint_tb_ankle_left/joint_tb_finger_left
+        weight: 1
+      - path: joint_talkingBird/joint_tb_thigh_left/joint_tb_leg_left/joint_tb_ankle_left/joint_tb_finger_left/joint_tb_finger_tip_left
+        weight: 1
+      - path: joint_talkingBird/joint_tb_thigh_left/joint_tb_leg_left/joint_tb_ankle_left/joint_tb_thumb_left
+        weight: 1
+      - path: joint_talkingBird/joint_tb_thigh_left/joint_tb_leg_left/joint_tb_ankle_left/joint_tb_thumb_left/joint_tb_thumb_tip_left
+        weight: 1
+      - path: joint_talkingBird/joint_tb_thigh_right
+        weight: 1
+      - path: joint_talkingBird/joint_tb_thigh_right/joint_tb_leg_right
+        weight: 1
+      - path: joint_talkingBird/joint_tb_thigh_right/joint_tb_leg_right/joint_tb_ankle_right
+        weight: 1
+      - path: joint_talkingBird/joint_tb_thigh_right/joint_tb_leg_right/joint_tb_ankle_right/joint_tb_finger_right
+        weight: 1
+      - path: joint_talkingBird/joint_tb_thigh_right/joint_tb_leg_right/joint_tb_ankle_right/joint_tb_finger_right/joint_tb_finger_tip_right
+        weight: 1
+      - path: joint_talkingBird/joint_tb_thigh_right/joint_tb_leg_right/joint_tb_ankle_right/joint_tb_thumb_right
+        weight: 1
+      - path: joint_talkingBird/joint_tb_thigh_right/joint_tb_leg_right/joint_tb_ankle_right/joint_tb_thumb_right/joint_tb_thumb_tip_right
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 4cb008acbfe1611498079f93ebff0210,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
