@@ -14,3 +14,21 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/HutongAssets/scenes/title_opening.unity
     guid: 7892eebdf12cef24d970aa2ec1ff612a
+  - enabled: 1
+    path: Assets/HutongAssets/scenes/jingShan.unity
+    guid: c56ca119ecad86e4c98af52b57052df0
+  - enabled: 1
+    path: Assets/HutongAssets/scenes/act1_courtyard.unity
+    guid: ff3fa11db4c1d97499d91610053c7da3
+  - enabled: 1
+    path: Assets/HutongAssets/scenes/jumpRope.unity
+    guid: 2070b14cc6e450c40b9fe99d91bc1a7c
+  - enabled: 1
+    path: Assets/HutongAssets/scenes/act2_hutong.unity
+    guid: 74fdd873ba774f34ab31047214033f2d
+  - enabled: 1
+    path: Assets/HutongAssets/scenes/beihaiBoating.unity
+    guid: ab853e1c66843764186369867de16a10
+  - enabled: 1
+    path: Assets/HutongAssets/scenes/act4_demolation.unity
+    guid: f62908a4bae131042b839751022bac63

@@ -10,7 +10,7 @@ public class triggerNext_afterTitle : MonoBehaviour
 		hutongOVRScreenFade fadingObj = FindObjectOfType<hutongOVRScreenFade> ();// cameraObj.GetComponent<hutongOVRScreenFade> ();
 		fadingObj.TriggerFadeOut ();
 		yield return new WaitForSeconds (fadingObj.fadeTime); 
-		SceneManager.LoadSceneAsync (4);	
+		SceneManager.LoadSceneAsync (3);	
 	}
 
 }

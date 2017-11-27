@@ -7,7 +7,7 @@ public class triggerNext_courtyardIntro : MonoBehaviour
 	
 	public void jingshan2courtyardIntro ()
 	{
-		SceneManager.LoadSceneAsync (3);
+		SceneManager.LoadSceneAsync (4);
 	}
 		
 
