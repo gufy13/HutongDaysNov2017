@@ -32,3 +32,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/HutongAssets/scenes/act4_demolation.unity
     guid: f62908a4bae131042b839751022bac63
+  - enabled: 1
+    path: Assets/HutongAssets/scenes/ending_credits.unity
+    guid: 38c017bfbb9ae9248badf42618ae277e

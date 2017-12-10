@@ -6,8 +6,8 @@ public class GameEndingManagement : MonoBehaviour {
 
 	public GameObject CanvasObj;
 
-	float canvasStartY = -1000;
-	float canvasEndY = 866;
+	float canvasStartY = -240;
+	float canvasEndY = 180;
 	[SerializeField] public GameObject gameExitbutton;
 
 	// Use this for initialization
