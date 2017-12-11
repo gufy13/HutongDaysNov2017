@@ -7,7 +7,7 @@ public class GameEndingManagement : MonoBehaviour {
 	public GameObject CanvasObj;
 
 	float canvasStartY = -240;
-	float canvasEndY = 180;
+	float canvasEndY = 165;
 	[SerializeField] public GameObject gameExitbutton;
 
 	// Use this for initialization
@@ -19,10 +19,10 @@ public class GameEndingManagement : MonoBehaviour {
 
 	IEnumerator CreditRolling()
 	{
-		float speed = 15;
+		float speed = 10;
 		RectTransform canvasTransform = CanvasObj.GetComponent<RectTransform> ();
 		float elapseTime = 0;
-		float rollingTime = 20;
+		float rollingTime = 30;
 
 		Vector3 canvasPos = canvasTransform.position;
 		for (float animProgress = 0; animProgress < 1; animProgress += 0.001f)
