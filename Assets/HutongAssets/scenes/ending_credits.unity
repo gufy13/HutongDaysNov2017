@@ -155,7 +155,7 @@ Prefab:
         type: 2}
       propertyPath: m_audioClip
       value: 
-      objectReference: {fileID: 8300000, guid: 34fc9f879e3615d4786869770d87ced7, type: 3}
+      objectReference: {fileID: 8300000, guid: ca157292759a8ae43a734fe1074cf747, type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 859fc1996603be94983881c798c6d6e1, type: 2}
   m_IsPrefabParent: 0
@@ -321,7 +321,6 @@ GameObject:
   - component: {fileID: 1234599178}
   - component: {fileID: 1234599177}
   - component: {fileID: 1234599176}
-  - component: {fileID: 1234599175}
   m_Layer: 5
   m_Name: quit_ButtonPanel
   m_TagString: Untagged
@@ -329,18 +328,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 0
---- !u!114 &1234599175
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 114314214260356424, guid: d254f56b50289b54ba089f270852ae15,
-    type: 2}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1234599174}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 36446daaed2634e40bf56a7b840cc6c9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &1234599176
 MonoBehaviour:
   m_ObjectHideFlags: 0
