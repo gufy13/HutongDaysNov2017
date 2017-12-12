@@ -276,7 +276,7 @@ VideoPlayer:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 348083716}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 7c5a3c85335437a48b6f0b548d914213, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: aa7712474c3e0334bad24c006e7a12cb, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera: {fileID: 0}
   m_TargetTexture: {fileID: 8400000, guid: a61ddfd8e0a98ff44b883d682c4924df, type: 2}
@@ -289,7 +289,7 @@ VideoPlayer:
   m_PlaybackSpeed: 1
   m_AudioOutputMode: 1
   m_TargetAudioSources:
-  - {fileID: 0}
+  - {fileID: 348083717}
   m_DirectAudioVolumes:
   - 1
   m_Url: 
@@ -339,7 +339,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: f1d4bdfe92030b24f9b09ecac9fe04a2, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 0e87fa0c796afc54e8333944fef3bb8e, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.4
   m_Pitch: 1
@@ -557,6 +557,7 @@ Prefab:
       objectReference: {fileID: 9100000, guid: 633c64d87dcd2224096a0c618118c2c0, type: 2}
     m_RemovedComponents:
     - {fileID: 114575942009547264, guid: 8800487b852ff5044b4c7ed700570979, type: 2}
+    - {fileID: 111649542380837138, guid: 8800487b852ff5044b4c7ed700570979, type: 2}
   m_ParentPrefab: {fileID: 100100000, guid: 8800487b852ff5044b4c7ed700570979, type: 2}
   m_IsPrefabParent: 0
 --- !u!1 &1989750542 stripped
