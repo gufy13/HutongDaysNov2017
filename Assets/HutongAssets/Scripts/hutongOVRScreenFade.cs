@@ -68,7 +68,6 @@ public class hutongOVRScreenFade : MonoBehaviour
 		float elapsedTime = 0.0f;
 		fadeMaterial.color = fadeColor;
 		Color color = fadeColor;
-		isFading = true;
 		while (elapsedTime < fadeTime)
 		{
 			yield return fadeInstruction;
@@ -76,7 +75,6 @@ public class hutongOVRScreenFade : MonoBehaviour
 			color.a = 1.0f - Mathf.Clamp01(elapsedTime / fadeTime);
 			fadeMaterial.color = color;
 		}
-		isFading = false;
 	}
 
 	/// <summary>
@@ -84,9 +82,9 @@ public class hutongOVRScreenFade : MonoBehaviour
 	/// </summary>
 	void OnPostRender()
 	{
-		if (isFading)
-		{
-			fadeMaterial.SetPass(0);
+        if (fadeMaterial.color.a > 0.001f)
+        {
+            fadeMaterial.SetPass(0);
 			GL.PushMatrix();
 			GL.LoadOrtho();
 			GL.Color(fadeMaterial.color);
@@ -120,8 +118,6 @@ public class hutongOVRScreenFade : MonoBehaviour
 			fadeMaterial.color = color;
 		}
 
-		// extra time for staying in black
-		yield return new WaitForSeconds (3.0f); 
 		isFading = false;
 	}
 
