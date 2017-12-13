@@ -156,6 +156,26 @@ Prefab:
       propertyPath: m_audioClip
       value: 
       objectReference: {fileID: 8300000, guid: a074aa416eb9cd44aaffc3731f8f7caf, type: 3}
+    - target: {fileID: 4426943742738120, guid: 859fc1996603be94983881c798c6d6e1, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0.46174863
+      objectReference: {fileID: 0}
+    - target: {fileID: 4426943742738120, guid: 859fc1996603be94983881c798c6d6e1, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.8870109
+      objectReference: {fileID: 0}
+    - target: {fileID: 4426943742738120, guid: 859fc1996603be94983881c798c6d6e1, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 55
+      objectReference: {fileID: 0}
+    - target: {fileID: 4426943742738120, guid: 859fc1996603be94983881c798c6d6e1, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4426943742738120, guid: 859fc1996603be94983881c798c6d6e1, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 859fc1996603be94983881c798c6d6e1, type: 2}
   m_IsPrefabParent: 0
