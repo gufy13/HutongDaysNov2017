@@ -121,7 +121,7 @@ public class hutongOVRScreenFade : MonoBehaviour
 		}
 
 		// extra time for staying in black
-		yield return new WaitForSeconds (1.5f); 
+		yield return new WaitForSeconds (3.0f); 
 		isFading = false;
 	}
 
